@@ -50,6 +50,7 @@ thunar-volman
 ttf-hack
 ttf-font-awesome
 ttf-jetbrains-mono-nerd
+noto-fonts-cjk
 volctl
 xfce4-notifyd
 xfce4-power-manager
